@@ -4,7 +4,9 @@
   "description": "Instagram bot",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "./node_modules/.bin/selenium-standalone install",
+    "start":  "./node_modules/.bin/selenium-standalone start"
   },
   "author": "Kunup Aleksander",
   "license": "ISC",

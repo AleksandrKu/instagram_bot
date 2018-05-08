@@ -9,7 +9,7 @@ const request = require('request');
 const file_name = path.join(__dirname, "Test_Worked.jpg");
 const login = 'aleksander.kun';
 const password = '7773439';
-const number_photo = 1;
+const number_photo = 2;
 
 client
     .init()
