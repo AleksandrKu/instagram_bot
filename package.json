@@ -1,0 +1,17 @@
+{
+  "name": "instagram_bot",
+  "version": "1.0.0",
+  "description": "Instagram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kunup Aleksander",
+  "license": "ISC",
+  "dependencies": {
+    "webdriverio": "^4.12.0"
+  },
+  "devDependencies": {
+    "selenium-standalone": "^6.14.0"
+  }
+}
